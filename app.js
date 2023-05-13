@@ -49,7 +49,7 @@ async function main() {
 
     const defaultItems = [item1, item2, item3];
 
-    let today = date.getDate();
+    let today = date.getDay();
 
 
     // Home Route
